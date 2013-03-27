@@ -1,6 +1,6 @@
-<?php
-  include "ceksesion.php";
-?>
+//<?php
+//  include "ceksesion.php";
+//?>
 
 
 

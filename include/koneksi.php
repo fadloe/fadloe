@@ -9,7 +9,7 @@ $user = 'root';
  
 //jika menggunakan PC sendiri sebagai host,
 //secara default password dikosongkan
-$pass = 'gulnar';
+$pass = 'root';
  
 //isikan nama database sesuai database
 //yang dibuat pada langkah-1
